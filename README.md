@@ -1,4 +1,4 @@
-![AlenzaCodes](assets/banner.png)
+![John Khan: data tools for Canadian borrowers, homeowners and lenders](assets/banner.png)
 
 ## John Khan
 
