@@ -2,7 +2,7 @@
 
 ## John Khan
 
-I build data tools for Canadian borrowers, homeowners and lenders. I've spent about 20 years in mortgages, business lending and alternative investments, and I'm finishing an MS in Data Science at the University of Colorado Boulder with a Graduate Certificate in AI. Based in Richmond Hill, Ontario.
+I build data tools for Canadian borrowers, homeowners and lenders. I've spent about many years in financial services including in mortgages, business lending and alternative investments.
 
 ### Projects
 
