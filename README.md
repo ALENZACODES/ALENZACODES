@@ -1,8 +1,17 @@
-![John Khan: data tools for Canadian borrowers, homeowners and lenders](assets/banner.png)
+![John Khan: mortgage and private credit analytics, data science](assets/banner.png)
 
 ## John Khan
 
-I build data tools for Canadian borrowers, homeowners and lenders. I've spent about many years in financial services including in mortgages, business lending and alternative investments.
+I build data tools for Canadian borrowers, homeowners and lenders. I've spent many years in financial services, including mortgages, business lending and alternative investments.
+
+### Recent builds
+
+| Project | What it does | Live |
+|---|---|---|
+| [Cash to Close](https://github.com/ALENZACODES/cash-to-close) | For Ontario first-time buyers: the real cash due on closing day beyond the down payment, and when each dollar leaves your account. | [Open](https://alenzacodes.github.io/cash-to-close/) |
+| [Doc Quest](https://github.com/ALENZACODES/doc-quest) | Turns a lender's long mortgage checklist into plain-language steps, three at a time, with where to find each paper. | [Open](https://alenzacodes.github.io/doc-quest/) |
+| [Receipt Window](https://github.com/ALENZACODES/receipt-window) | Picks the best 12-month period and the right partner for Canada's medical expense tax credit. | [Open](https://alenzacodes.github.io/receipt-window/) |
+| [Shoebox](https://github.com/ALENZACODES/shoebox) | Sorts a bank CSV into Form T2125 expense lines with a small open-weight model that runs in your browser tab. | [Open](https://alenzacodes.github.io/shoebox/) |
 
 ### Projects
 
